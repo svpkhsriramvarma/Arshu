@@ -1,0 +1,24 @@
+body{
+    background-color: pink;
+}
+div{
+    height:240px;
+    width:200px;
+    background-color: white;
+    margin-left:30%;
+    margin-top:50px;
+    border: 10px solid white;
+}
+.name{
+    margin-left: 50px;
+    font-weight:bold;
+}
+.about{
+    padding:20px;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'PT Serif', serif;
+    margin-left:30px;
+    margin-right: 20px;
+    color:#35155D;
+}

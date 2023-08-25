@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+div{
+    height:300px;
+    width:300px;
+    background-color: white;
+}
+.first{
+    border: 10px solid white;
+    margin-top:30px;
+    margin-left:50px;
+}
+.second{
+    border:10px solid brown;
+    margin-left:370px;
+}
+.third{
+    border:10px solid #606C5D;
+    margin-left:50px
+}
