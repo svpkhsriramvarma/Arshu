@@ -53,7 +53,7 @@ div .img1,.img2,.img3 {
     text-align:center;
     display:none;
 }
-@media  (max-width:767px) {
+@media only  screen and (max-width:480px) {
     .first,.second,.third{
         height:140px;
         width:140px;
